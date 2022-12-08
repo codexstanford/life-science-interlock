@@ -1,2 +1,1 @@
-# life-science-interlock
-Data for the paper "Analysis of Over 2,200 Life Science Companies Reveals a Network of Potentially Illegal Interlocked Boards"
+`complete_interlocking_data.csv` contains the data used in Lemley, Mark A. and Manjunath, Anoop and Kahrobai, Nathan and Kumar, Ishan, Analysis of Over 2,200 Life Science Companies Reveals a Network of Potentially Illegal Interlocked Boards (October 19, 2022). Available at SSRN: [https://ssrn.com/abstract=4253144](https://ssrn.com/abstract=4253144) or [http://dx.doi.org/10.2139/ssrn.4253144](http://dx.doi.org/10.2139/ssrn.4253144).
